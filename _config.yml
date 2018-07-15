@@ -1,0 +1,50 @@
+title: Lion.M의 소소한 개발일기
+email: lionem2018@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://lionem2018.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author settings
+author: Lion.M # add your name
+author-pic: LionM_Logo.png
+about-author: (공사중)
+
+# Contact links
+email: lionem2018@gmail.com # Add your Email address
+phone: # Add your Phone number
+website: # Add your website, do not add http://
+linkedin: # Add your Linkedin handle
+github: lionem2018 # Add your Github handle
+twitter: #'@artemsheludko_' / Add your Twitter handle
+facebook: # Add your Facebook handle
+instagram: # Add your Instagram handle
+pinterest: # Add your Pinterest handle
+
+# Newsletter
+mailchimp: # Add your MailChimp form identifier.
+
+# Disqus
+discus_identifier: mr-brown # Add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Paginate
+paginate: 6
+paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]
+exclude: [vendor/bundle/]
