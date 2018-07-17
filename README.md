@@ -1,4 +1,4 @@
-# WELCOME, MY PROGRAMMING BLOG!
+# Welcome To My Programming Blog!
 
 (현재 공사중인 블로그입니다.)
 
