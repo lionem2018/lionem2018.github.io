@@ -11,7 +11,7 @@ url: "https://lionem2018.github.io" # the base hostname & protocol for your site
 # Author settings
 author: Lion.M # add your name
 author-pic: LionM_Logo.png
-about-author: (공사중)
+about-author: 개발자를 꿈꾸는 대학생, 라이언엠입니다. 주 분야는 안드로이드 앱 개발이며, 주 언어는 자바입니다. 풀스택 개발자가 되기 위해 노력하고 있으며, 현재는 React Native와 node.js를 공부하고 있습니다. 그 외에도 다양한 분야를 탐구합니다.
 
 # Contact links
 email: lionem2018@gmail.com # Add your Email address
