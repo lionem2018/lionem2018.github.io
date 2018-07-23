@@ -97,7 +97,7 @@ Oracle VM VritualBox를 실행시키면 좌측에 가상 머신과 해당 머신
 
 내 경우는 '**C:\Users\계정명\\.docker\machine\machines\default**' 안에 저장되어 있었다.
 
-![docker_tip1_capture12](/assets/img/docker/tip1/capture12.png)
+![docker_tip1_capture12](/assets/img/docker/tip1/capture12.jpg)
 
 나는 D 드라이브 내에 docker-machines/default 안에 disk.vmdk 파일을 복사하였다.
 
