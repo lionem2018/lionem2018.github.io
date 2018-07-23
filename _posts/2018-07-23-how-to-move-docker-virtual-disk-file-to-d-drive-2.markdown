@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Docker/Tip]가상 하드디스크 파일(disk.vmdk) 옮기기#2 - 직접 disk.vmdk 파일 옮기기"
+title: "[Docker/Tip]도커 가상 하드디스크 파일(disk.vmdk) 옮기기#2 - 직접 disk.vmdk 파일 옮기기"
 date: 2018-07-23 16:25:00 +0900
 description: 도커의 가상 하드디스크 파일(disk.vmdk)를 다른 드라이브로 옮기는 방법을 소개해보려 한다.
 img: /docker/docker_logo.png
