@@ -61,6 +61,8 @@ disk.vmdk를 옮길 수 있는 방법은 크게 두 가지가 있다.
 
     $ docker-machine ls
 
+결과화면:
+
 ![docker_tip1_capture2]({{site.baseurl}}/assets/img/docker/tip1/capture2.jpg)
 
 만약 가상 머신이 실행중이라면 **작동을 중지**하도록 하자.
@@ -70,6 +72,8 @@ disk.vmdk를 옮길 수 있는 방법은 크게 두 가지가 있다.
     $ docker-machine stop <가상 머신 이름>
 
 가상 머신 이름을 명령어의 argument로 명시하지 않는다면, "default"라는 이름의 머신이 중지될 것이다.
+
+결과화면:
 
 ![docker_tip1_capture3]({{site.baseurl}}/assets/img/docker/tip1/capture3.jpg)
 
@@ -151,6 +155,8 @@ VM VirtualBox에서 실행하든, 터미널에서 확인하든 상관은 없다.
     또는
     $ docker-machine start <가상 머신 이름>
 
+결과화면:
+
 ![docker_tip1_capture9]({{site.baseurl}}/assets/img/docker/tip1/capture9.jpg)
 
 가상 머신이 잘 실행되었다면 **기존 이미지들도 잘 동작하는지** 확인해본다.
@@ -158,6 +164,8 @@ VM VirtualBox에서 실행하든, 터미널에서 확인하든 상관은 없다.
 아래 명령어는 **실행중이거나 중단된 모든 이미지를 조회**하는 명령어이다.
 
     $ docker images
+
+결과화면:
 
 ![docker_tip1_capture10]({{site.baseurl}}/assets/img/docker/tip1/capture10.jpg)
 
