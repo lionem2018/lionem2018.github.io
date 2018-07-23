@@ -220,5 +220,6 @@ disk.vmdk 파일을 직접 옮겨야 하지만 어디에 저장되어있는지 �
 # 참고
 
 해당 방법은 두 글을 참고하였다.
-- StackOverflow
-- NO, SERIOUSLY…(WordPress 블로그)
+- [StackOverflow](https://stackoverflow.com/questions/33392133/move-boot2docker-and-docker-folder-in-other-drive, "스택오버플로우")
+- [NO, SERIOUSLY… 블로그](https://forgetfulprogrammer.wordpress.com/2016/10/28/how-to-move-your-large-virtualbox-vm-disk-created-by-docker/,"WordPress 블로그")
+
